@@ -1,4 +1,7 @@
-## Hi there 👋
+## Austin D Beerwinkle
++ student at Oklahoma State University
++ majoring in Aerospace Engineering with a minor in Comp Sci
++ interested in embedded C/C++ programming, time series analysis, and Python
 
 <!--
 **beerman58/beerman58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
